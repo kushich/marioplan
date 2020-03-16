@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marioplan/static/css/main.81f2dcb9.chunk.css",
+    "main.js": "/marioplan/static/js/main.b2aec4ab.chunk.js",
+    "main.js.map": "/marioplan/static/js/main.b2aec4ab.chunk.js.map",
+    "runtime-main.js": "/marioplan/static/js/runtime-main.8011f6ad.js",
+    "runtime-main.js.map": "/marioplan/static/js/runtime-main.8011f6ad.js.map",
+    "static/js/2.ea67b4fc.chunk.js": "/marioplan/static/js/2.ea67b4fc.chunk.js",
+    "static/js/2.ea67b4fc.chunk.js.map": "/marioplan/static/js/2.ea67b4fc.chunk.js.map",
+    "index.html": "/marioplan/index.html",
+    "precache-manifest.7cc293b72795ca4569d30f385d076529.js": "/marioplan/precache-manifest.7cc293b72795ca4569d30f385d076529.js",
+    "service-worker.js": "/marioplan/service-worker.js",
+    "static/css/main.81f2dcb9.chunk.css.map": "/marioplan/static/css/main.81f2dcb9.chunk.css.map",
+    "static/js/2.ea67b4fc.chunk.js.LICENSE.txt": "/marioplan/static/js/2.ea67b4fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8011f6ad.js",
+    "static/js/2.ea67b4fc.chunk.js",
+    "static/css/main.81f2dcb9.chunk.css",
+    "static/js/main.b2aec4ab.chunk.js"
+  ]
+}
